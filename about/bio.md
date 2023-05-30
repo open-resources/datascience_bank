@@ -83,7 +83,7 @@ As an Undergraduate Research Assistant, Aidan is eager to contribute to ongoing 
 <br><br>
 
 #### **Bella**
-<img align="left" width="150" height="184.19" style="padding-right: 20px" src="../images/Bella.png"> </img>
+<img align="left" width="150" height="184.19" style="padding-right: 20px" src="../images/Bella.JPG"> </img>
 I am an incoming third year computer science student at UBCO! I'm excited to be part of a project that focuses on the betterment of students and learning while giving me an opportunity to grow my own technical skills. I can't wait to expand on the open education resources that I used in my first year! When I'm not studying, I love doing anything around art and design!
 
 <br><br><br>
