@@ -66,10 +66,12 @@ As for my personal life, I am creatively invested in visual arts and reading and
 
 #### **Theresa**
 <img align="left" width="150" height="200" style="padding-right: 20px" src="../images/Theresa.jpg"> </img>
+
 I just finished my second year at UBC Vancouver, where I'm currently pursuing a combined major in Computer Science and Microbiology and Immunology. I’m passionate about healthcare and software, hence my major, and am super excited to be part of a project that will have a positive impact on students’ lives. In my free time, you’ll likely find me playing ultimate frisbee, snowboarding, or trying new restaurants (I’m a big foodie) but I also love art and design, and gaming too!
 
 #### **Aidan**
 <img align="left" width="150" height="200" style="padding-right: 20px" src="../images/Aidan.jpg"> </img>
+
 Aidan is a recent graduate of UBCO, majoring in Computer Science, having a keen interest in programming and a strong foundation in Python.
 He has completed an 8-month project for the Rotary Club of Kelowna - Ogopogo, designing and implementing features according to project requirements, demonstrating his ability to write clean and efficient code. Beyond this he is particularly interested in the intersection of computer science and education, and has worked as a teaching assistant creating resources for undergraduate level Computer Science courses.
 As an Undergraduate Research Assistant, Aidan is eager to contribute to ongoing research projects in computer science, both independently and as part of a team.
