@@ -54,7 +54,7 @@ Outside of classes and education, I enjoy playing the trombone (and euphonium so
 
 
 #### **Borna**
-<img align="left" width="180" height="180" style="padding-right: 20px" src="../images/borna.jpg"> </img>
+<img align="left" width="386.08" height="514.77" style="padding-right: 20px" src="../images/borna.jpg"> </img>
 
 My name is Borna, just completed my 2nd year studying business and computer science at UBC Vancouver. Aside from this project I'm also on the Investment team at Front Row Ventures, and hoping to go into product management, starting with an internship next Summer! Excited to work on this project, developing a large open problem bank with helpful feedback for questions that for me at least is very critical to my learning, while developing a variety of skills in this process. Besides work/school, I'm a big sports fan, especially Soccer and Basketball, and I also have my 2nd degree black belt in Taekwondo, you might also catch my playing story or online games with friends. Looking forward to working with everyone! 
 
