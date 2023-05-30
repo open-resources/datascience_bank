@@ -80,7 +80,7 @@ Aidan is a recent graduate of UBCO, majoring in Computer Science, having a keen 
 He has completed an 8-month project for the Rotary Club of Kelowna - Ogopogo, designing and implementing features according to project requirements, demonstrating his ability to write clean and efficient code. Beyond this he is particularly interested in the intersection of computer science and education, and has worked as a teaching assistant creating resources for undergraduate level Computer Science courses.
 As an Undergraduate Research Assistant, Aidan is eager to contribute to ongoing research projects in computer science, both independently and as part of a team.
 
-<br><br>
+<br>
 
 #### **Bella**
 <img align="left" width="150" height="184.19" style="padding-right: 20px" src="../images/Bella.JPG"> </img>
