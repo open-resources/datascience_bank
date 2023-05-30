@@ -64,7 +64,7 @@ My name is Borna, just completed my 2nd year studying business and computer scie
 I'm going into my third year majoring in Data Science & Economics! In my first year, I was able to work with a synthetic data generation startup over the summer and currently I am a student connector & transition specialist on campus! With my interdisciplinary career interest, I am excited to contribute to this project in the technical capacity needed to understand how we can make direct impact on learning platforms while developing my technical skills and growing! Being a part of Dr Moosvi's classes since my first year, I have had the privilege of being able to access the resources available to exercise active learning and I am excited to be able to expand on that student experience for incoming students. 
 As for my personal life, I am creatively invested in visual arts and reading and love rugby! 
 
-<br><br><br>
+<br><br>
 
 #### **Theresa**
 <img align="left" width="150" height="153" style="padding-right: 20px" src="../images/Theresa.jpg"> </img>
