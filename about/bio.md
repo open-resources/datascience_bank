@@ -48,10 +48,10 @@ I am a first year Bachelor of Arts student at UBCO planning to major in Computer
 #### **Gavin Kendal-Freedman**
 
 Hello, I’m Gavin! I just completed my second year enrolled in UBC Okanagan’s chemistry program, with a minor in data science. I’m very interested in helping making learning more accessible to others, as I have seen firsthand and through others how much mandatory textbooks and teaching tools can cost on top of tuition, and how much that can hamper learning, so helping more free quality education resources be available is an exciting opportunity for me to be a part of and lend my experience with python to this project! Further, across all the coding classes I have taken, the lack of smart, computer graded testing of code using easily available technology has always surprised me, so being able to help create a solution to this gap in educational resources is an exciting opportunity!
-
+<img align="left" width="150" height="150" style="padding-right: 20px" src="../images/Gavin Kendal-Freedman Senior Photo.png"> </img>
 Outside of classes and education, I enjoy playing the trombone (and euphonium sometimes), as well as playing D&D 5e, and coding in python, anything from small automation scripts to larger projects, including data visualization. Also being from the pacific northwest, I love hiking and nature, as well mountains, especially Mt. St. Helens, Mt. Baker, and Mt. Rainer.
 
-<img align="left" width="150" height="150" style="padding-right: 20px" src="../images/Gavin Kendal-Freedman Senior Photo.png"> </img>
+
 
 #### **Borna**
 
