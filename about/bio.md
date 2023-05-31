@@ -53,12 +53,12 @@ Outside of classes and education, I enjoy playing the trombone (and euphonium so
 
 
 
-#### **Borna**
+#### **Borna Shani**
 <img align="left" width="150" height="150" style="padding-right: 20px" src="../images/borna.jpg"> </img>
 
 My name is Borna, just completed my 2nd year studying business and computer science at UBC Vancouver. Aside from this project I'm also on the Investment team at Front Row Ventures, and hoping to go into product management, starting with an internship next Summer! Excited to work on this project, developing a large open problem bank with helpful feedback for questions that for me at least is very critical to my learning, while developing a variety of skills in this process. Besides work/school, I'm a big sports fan, especially Soccer and Basketball, and I also have my 2nd degree black belt in Taekwondo, you might also catch my playing story or online games with friends. Looking forward to working with everyone! 
 
-#### **Ruwaida**
+#### **Ruwaida Rashid**
 <img align="left" width="130" height="173.33" style="padding-right: 20px" src="../images/Ruwaida.jpg"> </img>
 
 I'm going into my third year majoring in Data Science & Economics! In my first year, I was able to work with a synthetic data generation startup over the summer and currently I am a student connector & transition specialist on campus! With my interdisciplinary career interest, I am excited to contribute to this project in the technical capacity needed to understand how we can make direct impact on learning platforms while developing my technical skills and growing! Being a part of Dr Moosvi's classes since my first year, I have had the privilege of being able to access the resources available to exercise active learning and I am excited to be able to expand on that student experience for incoming students. 
@@ -66,14 +66,14 @@ As for my personal life, I am creatively invested in visual arts and reading and
 
 <br>
 
-#### **Theresa**
+#### **Theresa Xiao**
 <img align="left" width="150" height="153" style="padding-right: 20px" src="../images/Theresa.jpg"> </img>
 
 I just finished my second year at UBC Vancouver, where I'm currently pursuing a combined major in Computer Science and Microbiology and Immunology. I’m passionate about healthcare and software, hence my major, and am super excited to be part of a project that will have a positive impact on students’ lives. In my free time, you’ll likely find me playing ultimate frisbee, snowboarding, or trying new restaurants (I’m a big foodie) but I also love art and design, and gaming too!
 
 <br>
 
-#### **Aidan**
+#### **Aidan Murphy**
 <img align="left" width="150" height="199.87" style="padding-right: 20px" src="../images/Aidan.jpg"> </img>
 
 Aidan is a recent graduate of UBCO, majoring in Computer Science, having a keen interest in programming and a strong foundation in Python.
@@ -82,7 +82,7 @@ As an Undergraduate Research Assistant, Aidan is eager to contribute to ongoing 
 
 <br>
 
-#### **Bella**
+#### **Bella Mendoza**
 <img align="left" width="150" height="184.19" style="padding-right: 20px" src="../images/Bella.JPG"> </img>
 I am an incoming third year computer science student at UBCO! I'm excited to be part of a project that focuses on the betterment of students and learning while giving me an opportunity to grow my own technical skills. I can't wait to expand on the open education resources that I used in my first year! When I'm not studying, I love doing anything around art and design!
 
