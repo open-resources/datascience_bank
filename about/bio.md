@@ -1,4 +1,4 @@
-# Open Problem Bank in Statistics
+# Open Problem Bank in Data Science
 
 
 
