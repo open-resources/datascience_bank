@@ -1,6 +1,6 @@
 ---
 title: Pandas Melt
-topic: Gallery
+topic: Data Analysis
 author: Gavin Kendal-Freedman
 source: original
 template_version: 1.4
@@ -9,7 +9,8 @@ partialCredit: true
 singleVariant: true
 showCorrectAnswer: false
 gradingMethod: Manual
-outcomes: null
+outcomes:
+- 7.3.1.0
 difficulty:
 - undefined
 randomization:
