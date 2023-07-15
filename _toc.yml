@@ -1,9 +1,17 @@
 format: jb-book
 root: about/home
 parts:
-- caption: Open Problem Bank in Data Science
+- caption: About this Problem Bank
   chapters:
-  - file: about/about
+  - file: files/about
     title: About
-  - file: about/bio
+  - file: files/bio
     title: Project Team
+- caption: unsorted
+  chapters:
+  - file: content/public/000.unsorted/function_output/Function Output
+  - file: content/public/000.unsorted/pandas/Melt/Melt
+- caption: Math
+  chapters:
+  - file: content/public/001.Math/Algebra/Smudge/Smudge
+  - file: content/public/001.Math/Algebra/Smudge2/Smudge2
