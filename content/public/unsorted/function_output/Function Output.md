@@ -31,18 +31,18 @@ part1:
 myst:
   substitutions:
     params_vars_title: Function Output
-    params_vars_quote_text: '{quote_text} knocks twice.'
+    params_vars_quote_text: Laughter is the best medicine.
     params_vars_is_f_string: ''
-    params_vars_second_text: knocks twice.
+    params_vars_second_text: is the best medicine.
     params_vars_variable: quote_text
     params_vars_first_text: '{quote_text}'
-    params_part1_ans1_value: quote("Opportunity seldom")
-    params_part1_ans1_feedback: Nice job!
+    params_part1_ans1_value: quote("Laughter")
+    params_part1_ans1_feedback: Try again!
     params_part1_ans2_value: None of the listed options
-    params_part1_ans2_feedback: Try again!
-    params_part1_ans3_value: def quote("Opportunity seldom")
+    params_part1_ans2_feedback: Nice job!
+    params_part1_ans3_value: def quote("Laughter")
     params_part1_ans3_feedback: Try again!
-    params_part1_ans4_value: quote(Opportunity seldom)
+    params_part1_ans4_value: quote(Laughter)
     params_part1_ans4_feedback: Try again!
     params_part1_ans5_value: quote()
     params_part1_ans5_feedback: Try again!
