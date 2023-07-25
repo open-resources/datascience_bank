@@ -53,14 +53,14 @@ myst:
     params_vars_title: Groupby 2
     params_vars_func: min
     params_vars_left: island
-    params_vars_right: species
+    params_vars_right: sex
     params_expected__type: dataframe_v2
     params_expected__value_schema_fields:
     - name: index
       type: integer
     - name: island
       type: string
-    - name: species
+    - name: sex
       type: string
     - name: bill_length_mm
       type: number
@@ -76,39 +76,46 @@ myst:
     params_expected__value_data:
     - index: 0
       island: Biscoe
-      species: Adelie
+      sex: FEMALE
       bill_length_mm: 34.5
-      bill_depth_mm: 16.0
+      bill_depth_mm: 13.1
       flipper_length_mm: 172.0
       body_mass_g: 2850.0
     - index: 1
       island: Biscoe
-      species: Gentoo
-      bill_length_mm: 40.9
-      bill_depth_mm: 13.1
-      flipper_length_mm: 203.0
-      body_mass_g: 3950.0
+      sex: MALE
+      bill_length_mm: 37.6
+      bill_depth_mm: 14.1
+      flipper_length_mm: 180.0
+      body_mass_g: 3550.0
     - index: 2
       island: Dream
-      species: Adelie
+      sex: FEMALE
       bill_length_mm: 32.1
       bill_depth_mm: 15.5
       flipper_length_mm: 178.0
-      body_mass_g: 2900.0
+      body_mass_g: 2700.0
     - index: 3
       island: Dream
-      species: Chinstrap
-      bill_length_mm: 40.9
-      bill_depth_mm: 16.4
+      sex: MALE
+      bill_length_mm: 36.3
+      bill_depth_mm: 17.0
       flipper_length_mm: 178.0
-      body_mass_g: 2700.0
+      body_mass_g: 3250.0
     - index: 4
       island: Torgersen
-      species: Adelie
+      sex: FEMALE
       bill_length_mm: 33.5
       bill_depth_mm: 15.9
       flipper_length_mm: 176.0
       body_mass_g: 2900.0
+    - index: 5
+      island: Torgersen
+      sex: MALE
+      bill_length_mm: 34.6
+      bill_depth_mm: 17.6
+      flipper_length_mm: 181.0
+      body_mass_g: 3325.0
     params_pengiuns__type: dataframe_v2
     params_pengiuns__value_schema_fields:
     - name: index

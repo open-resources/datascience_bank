@@ -32,7 +32,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Pandas 2
-    params_vars_code: df[0:10].dropna()
+    params_vars_code: df[0:10].dropna(how="all")
     params_df__type: dataframe_v2
     params_df__value_schema_fields:
     - name: index
@@ -66,144 +66,144 @@ myst:
     params_df__value_schema_pandas_version: 1.4.0
     params_df__value_data:
     - index: 0
-      Name: Crobat
-      Type 1: Poison
-      Type 2: Flying
-      Total: 535
-      HP: '85'
-      Attack: '90'
-      Defense: '80'
-      Sp. Atk: nan
-      Sp. Def: nan
-      Speed: '130'
-      Generation: 2
+      Name: Frillish
+      Type 1: Water
+      Type 2: Ghost
+      Total: 335
+      HP: '55'
+      Attack: '40'
+      Defense: '50'
+      Sp. Atk: '65'
+      Sp. Def: '85'
+      Speed: '40'
+      Generation: 5
       Legendary: false
     - index: 1
-      Name: RotomFan Rotom
+      Name: Crawdaunt
+      Type 1: Water
+      Type 2: Dark
+      Total: 468
+      HP: nan
+      Attack: '120'
+      Defense: '85'
+      Sp. Atk: '90'
+      Sp. Def: '55'
+      Speed: '55'
+      Generation: 3
+      Legendary: false
+    - index: 2
+      Name: Pangoro
+      Type 1: Fighting
+      Type 2: Dark
+      Total: 495
+      HP: '95'
+      Attack: '124'
+      Defense: nan
+      Sp. Atk: nan
+      Sp. Def: '71'
+      Speed: '58'
+      Generation: 6
+      Legendary: false
+    - index: 3
+      Name: Loudred
+      Type 1: Normal
+      Type 2: null
+      Total: 360
+      HP: nan
+      Attack: '71'
+      Defense: nan
+      Sp. Atk: '71'
+      Sp. Def: nan
+      Speed: nan
+      Generation: 3
+      Legendary: false
+    - index: 4
+      Name: MewtwoMega Mewtwo X
+      Type 1: Psychic
+      Type 2: Fighting
+      Total: 780
+      HP: '106'
+      Attack: '190'
+      Defense: '100'
+      Sp. Atk: '154'
+      Sp. Def: '100'
+      Speed: nan
+      Generation: 1
+      Legendary: true
+    - index: 5
+      Name: Parasect
+      Type 1: Bug
+      Type 2: Grass
+      Total: 405
+      HP: '60'
+      Attack: '95'
+      Defense: '80'
+      Sp. Atk: '60'
+      Sp. Def: '80'
+      Speed: '30'
+      Generation: 1
+      Legendary: false
+    - index: 6
+      Name: Golett
+      Type 1: Ground
+      Type 2: Ghost
+      Total: 303
+      HP: '59'
+      Attack: '74'
+      Defense: nan
+      Sp. Atk: '35'
+      Sp. Def: '50'
+      Speed: '35'
+      Generation: 5
+      Legendary: false
+    - index: 7
+      Name: Ferrothorn
+      Type 1: Grass
+      Type 2: Steel
+      Total: 489
+      HP: nan
+      Attack: '94'
+      Defense: '131'
+      Sp. Atk: '54'
+      Sp. Def: '116'
+      Speed: nan
+      Generation: 5
+      Legendary: false
+    - index: 8
+      Name: RotomFrost Rotom
       Type 1: Electric
-      Type 2: Flying
+      Type 2: Ice
       Total: 520
       HP: '50'
       Attack: '65'
       Defense: '107'
-      Sp. Atk: nan
-      Sp. Def: nan
-      Speed: nan
+      Sp. Atk: '105'
+      Sp. Def: '107'
+      Speed: '86'
       Generation: 4
-      Legendary: false
-    - index: 2
-      Name: Zoroark
-      Type 1: Dark
-      Type 2: null
-      Total: 510
-      HP: '60'
-      Attack: '105'
-      Defense: '60'
-      Sp. Atk: '120'
-      Sp. Def: nan
-      Speed: '105'
-      Generation: 5
-      Legendary: false
-    - index: 3
-      Name: Weavile
-      Type 1: Dark
-      Type 2: Ice
-      Total: 510
-      HP: '70'
-      Attack: '120'
-      Defense: '65'
-      Sp. Atk: '45'
-      Sp. Def: '85'
-      Speed: '125'
-      Generation: 4
-      Legendary: false
-    - index: 4
-      Name: Hypno
-      Type 1: Psychic
-      Type 2: null
-      Total: 483
-      HP: nan
-      Attack: '73'
-      Defense: '70'
-      Sp. Atk: '73'
-      Sp. Def: '115'
-      Speed: '67'
-      Generation: 1
-      Legendary: false
-    - index: 5
-      Name: Wynaut
-      Type 1: Psychic
-      Type 2: null
-      Total: 260
-      HP: '95'
-      Attack: '23'
-      Defense: '48'
-      Sp. Atk: '23'
-      Sp. Def: '48'
-      Speed: '23'
-      Generation: 3
-      Legendary: false
-    - index: 6
-      Name: Florges
-      Type 1: Fairy
-      Type 2: null
-      Total: 552
-      HP: nan
-      Attack: '65'
-      Defense: nan
-      Sp. Atk: '112'
-      Sp. Def: '154'
-      Speed: '75'
-      Generation: 6
-      Legendary: false
-    - index: 7
-      Name: Wobbuffet
-      Type 1: Psychic
-      Type 2: null
-      Total: 405
-      HP: '190'
-      Attack: '33'
-      Defense: '58'
-      Sp. Atk: '33'
-      Sp. Def: '58'
-      Speed: '33'
-      Generation: 2
-      Legendary: false
-    - index: 8
-      Name: Joltik
-      Type 1: Bug
-      Type 2: Electric
-      Total: 319
-      HP: '50'
-      Attack: '47'
-      Defense: '50'
-      Sp. Atk: '57'
-      Sp. Def: '50'
-      Speed: '65'
-      Generation: 5
       Legendary: false
     - index: 9
-      Name: Drifloon
-      Type 1: Ghost
-      Type 2: Flying
-      Total: 348
-      HP: nan
+      Name: Cherrim
+      Type 1: Grass
+      Type 2: null
+      Total: 450
+      HP: '70'
       Attack: nan
       Defense: nan
       Sp. Atk: nan
-      Sp. Def: '44'
-      Speed: nan
+      Sp. Def: '78'
+      Speed: '85'
       Generation: 4
       Legendary: false
-    params_part1_ans1_value: 8 rows get dropped
+    params_part1_ans1_value: 0 rows get dropped
     params_part1_ans1_feedback: Great job!
-    params_part1_ans2_value: 6 rows get dropped
+    params_part1_ans2_value: 1 rows get dropped
     params_part1_ans2_feedback: You should be able to determine how many get dropped.
-    params_part1_ans3_value: 7 rows get dropped
+    params_part1_ans3_value: 2 rows get dropped
     params_part1_ans3_feedback: You should be able to determine how many get dropped.
-    params_part1_ans4_value: 9 rows get dropped
+    params_part1_ans4_value: 3 rows get dropped
     params_part1_ans4_feedback: You should be able to determine how many get dropped.
-    params_part1_ans5_value: 10 rows get dropped
+    params_part1_ans5_value: 4 rows get dropped
     params_part1_ans5_feedback: You should be able to determine how many get dropped.
     params_part1_ans6_value: Unable to determine how many rows get dropped
     params_part1_ans6_feedback: You should be able to determine how many get dropped.

@@ -31,17 +31,17 @@ myst:
   substitutions:
     params_vars_title: File Sizes
     params_vars_bounds: smallest
-    params_part1_ans1_value: 1,330,000 million KB
+    params_part1_ans1_value: 864,000 million KB
     params_part1_ans1_feedback: Thats not quite right, try again!
-    params_part1_ans2_value: 1690 TB
+    params_part1_ans2_value: 1330 TB
     params_part1_ans2_feedback: Thats not quite right, try again!
-    params_part1_ans3_value: 1,120,000 GB
-    params_part1_ans3_feedback: Thats not quite right, try again!
-    params_part1_ans4_value: 460,000 billion bytes
-    params_part1_ans4_feedback: Great! You got it.
-    params_part1_ans5_value: 1.440 PB
+    params_part1_ans3_value: 47,000 GB
+    params_part1_ans3_feedback: Great! You got it.
+    params_part1_ans4_value: 869,000 billion bytes
+    params_part1_ans4_feedback: Thats not quite right, try again!
+    params_part1_ans5_value: 1.220 PB
     params_part1_ans5_feedback: Thats not quite right, try again!
-    params_part1_ans6_value: 583,000 thousand MB
+    params_part1_ans6_value: 580,000 thousand MB
     params_part1_ans6_feedback: Thats not quite right, try again!
     params_part1_ans7_value: Not possible to determine with the given information.
     params_part1_ans7_feedback: This is possible to figure out, try to think about

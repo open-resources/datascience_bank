@@ -47,10 +47,10 @@ part1:
 myst:
   substitutions:
     params_vars_title: Divisible By
-    params_vars_divisible_by: 10
+    params_vars_divisible_by: 8
     params_names_for_user: []
     params_names_from_user:
-    - name: divisible_by_10
+    - name: divisible_by_8
 ---
 # {{ params_vars_title }}
 

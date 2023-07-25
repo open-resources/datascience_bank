@@ -30,7 +30,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Select from a list
-    params_vars_mylist: '[87, 67, 73, 2, 18, 11, 71]'
+    params_vars_mylist: '[93, 86, 82, 24, 34, 20, 3]'
     params_vars_length: 7
     params_vars_select_num: 3
     params_vars_section: middle
@@ -48,7 +48,7 @@ myst:
     params_part1_ans5_value: mylist[:-3]
     params_part1_ans5_feedback: Try again! This selects everything but the last elements
       of the list
-    params_part1_ans6_value: mylist[9:9]
+    params_part1_ans6_value: mylist[9:10]
     params_part1_ans6_feedback: Try again! This answer is incorrect
     params_part1_ans7_value: mylist[:4]
     params_part1_ans7_feedback: Try again! This answer is incorrect
