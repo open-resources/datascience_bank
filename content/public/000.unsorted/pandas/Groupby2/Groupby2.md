@@ -51,16 +51,16 @@ part1:
 myst:
   substitutions:
     params_vars_title: Groupby 2
-    params_vars_func: sum
-    params_vars_left: sex
-    params_vars_right: island
+    params_vars_func: median
+    params_vars_left: island
+    params_vars_right: sex
     params_expected__type: dataframe_v2
     params_expected__value_schema_fields:
     - name: index
       type: integer
-    - name: sex
-      type: string
     - name: island
+      type: string
+    - name: sex
       type: string
     - name: bill_length_mm
       type: number
@@ -75,47 +75,47 @@ myst:
     params_expected__value_schema_pandas_version: 1.4.0
     params_expected__value_data:
     - index: 0
-      sex: FEMALE
       island: Biscoe
-      bill_length_mm: 3464.6
-      bill_depth_mm: 1215.3
-      flipper_length_mm: 16455.0
-      body_mass_g: 345550.0
+      sex: FEMALE
+      bill_length_mm: 44.9
+      bill_depth_mm: 14.5
+      flipper_length_mm: 210.0
+      body_mass_g: 4587.5
     - index: 1
-      sex: FEMALE
-      island: Dream
-      bill_length_mm: 2580.1
-      bill_depth_mm: 1073.7
-      flipper_length_mm: 11591.0
-      body_mass_g: 210225.0
-    - index: 2
-      sex: FEMALE
-      island: Torgersen
-      bill_length_mm: 901.3
-      bill_depth_mm: 421.2
-      flipper_length_mm: 4519.0
-      body_mass_g: 81500.0
-    - index: 3
-      sex: MALE
       island: Biscoe
-      bill_length_mm: 3910.9
-      bill_depth_mm: 1377.6
-      flipper_length_mm: 17703.0
-      body_mass_g: 423675.0
-    - index: 4
       sex: MALE
+      bill_length_mm: 48.5
+      bill_depth_mm: 16.0
+      flipper_length_mm: 219.0
+      body_mass_g: 5350.0
+    - index: 2
       island: Dream
-      bill_length_mm: 2859.2
-      bill_depth_mm: 1182.1
-      flipper_length_mm: 12171.0
-      body_mass_g: 247200.0
-    - index: 5
+      sex: FEMALE
+      bill_length_mm: 42.5
+      bill_depth_mm: 17.8
+      flipper_length_mm: 190.0
+      body_mass_g: 3450.0
+    - index: 3
+      island: Dream
       sex: MALE
+      bill_length_mm: 49.1
+      bill_depth_mm: 19.0
+      flipper_length_mm: 196.0
+      body_mass_g: 3950.0
+    - index: 4
       island: Torgersen
-      bill_length_mm: 933.5
-      bill_depth_mm: 446.0
-      flipper_length_mm: 4483.0
-      body_mass_g: 92800.0
+      sex: FEMALE
+      bill_length_mm: 37.6
+      bill_depth_mm: 17.45
+      flipper_length_mm: 189.0
+      body_mass_g: 3400.0
+    - index: 5
+      island: Torgersen
+      sex: MALE
+      bill_length_mm: 41.1
+      bill_depth_mm: 19.2
+      flipper_length_mm: 195.0
+      body_mass_g: 4000.0
     params_pengiuns__type: dataframe_v2
     params_pengiuns__value_schema_fields:
     - name: index
