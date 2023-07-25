@@ -31,18 +31,18 @@ part1:
 myst:
   substitutions:
     params_vars_title: Function Output
-    params_vars_quote_text: The early bird catches the worm.
-    params_vars_is_f_string: f
-    params_vars_second_text: bird catches the worm.
+    params_vars_quote_text: Beauty {quote_text}
+    params_vars_is_f_string: ''
+    params_vars_first_text: Beauty
     params_vars_variable: quote_text
-    params_vars_first_text: quote_text
-    params_part1_ans1_value: quote("The early")
-    params_part1_ans1_feedback: Try again!
+    params_vars_second_text: '{quote_text}'
+    params_part1_ans1_value: quote("is in the eye of the beholder.")
+    params_part1_ans1_feedback: Nice job!
     params_part1_ans2_value: None of the listed options
-    params_part1_ans2_feedback: Nice job!
-    params_part1_ans3_value: def quote("The early")
+    params_part1_ans2_feedback: Try again!
+    params_part1_ans3_value: def quote("is in the eye of the beholder.")
     params_part1_ans3_feedback: Try again!
-    params_part1_ans4_value: quote(The early)
+    params_part1_ans4_value: quote(is in the eye of the beholder.)
     params_part1_ans4_feedback: Try again!
     params_part1_ans5_value: quote()
     params_part1_ans5_feedback: Try again!

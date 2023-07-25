@@ -30,25 +30,25 @@ part1:
 myst:
   substitutions:
     params_vars_title: Select from a list
-    params_vars_mylist: '[93, 97, 23, 69, 66, 40, 25, 15, 4, 78, 34, 74]'
-    params_vars_length: 12
+    params_vars_mylist: '[52, 90, 45, 44, 82, 18, 28, 67, 7, 29, 51, 73, 8]'
+    params_vars_length: 13
     params_vars_select_num: 7
-    params_vars_section: last
-    params_vars_negate: ' everything but '
+    params_vars_section: middle
+    params_vars_negate: ' '
     params_part1_ans1_value: mylist[:7]
     params_part1_ans1_feedback: Try again! This selects the first elements of the
       list
     params_part1_ans2_value: mylist[-7:]
     params_part1_ans2_feedback: Try again! This selects the last elements of the list
     params_part1_ans3_value: mylist[3:10]
-    params_part1_ans3_feedback: Try again! This selects the middle elements of the
-      list
+    params_part1_ans3_feedback: Good job!
     params_part1_ans4_value: mylist[7:]
     params_part1_ans4_feedback: Try again! This selects everything but the first elements
       of the list
     params_part1_ans5_value: mylist[:-7]
-    params_part1_ans5_feedback: Good job!
-    params_part1_ans6_value: mylist[16:17]
+    params_part1_ans5_feedback: Try again! This selects everything but the last elements
+      of the list
+    params_part1_ans6_value: mylist[18:14]
     params_part1_ans6_feedback: Try again! This answer is incorrect
     params_part1_ans7_value: mylist[:8]
     params_part1_ans7_feedback: Try again! This answer is incorrect
