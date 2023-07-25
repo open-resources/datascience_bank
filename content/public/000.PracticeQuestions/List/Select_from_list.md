@@ -30,31 +30,31 @@ part1:
 myst:
   substitutions:
     params_vars_title: Select from a list
-    params_vars_mylist: '[44, 1, 60, 75, 78, 17, 86, 81, 55, 33, 6, 34, 95, 89]'
-    params_vars_length: 14
-    params_vars_select_num: 9
-    params_vars_section: last
-    params_vars_negate: ' everything but '
-    params_part1_ans1_value: mylist[:9]
+    params_vars_mylist: '[87, 67, 73, 2, 18, 11, 71]'
+    params_vars_length: 7
+    params_vars_select_num: 3
+    params_vars_section: middle
+    params_vars_negate: ' '
+    params_part1_ans1_value: mylist[:3]
     params_part1_ans1_feedback: Try again! This selects the first elements of the
       list
-    params_part1_ans2_value: mylist[-9:]
+    params_part1_ans2_value: mylist[-3:]
     params_part1_ans2_feedback: Try again! This selects the last elements of the list
-    params_part1_ans3_value: mylist[3:12]
-    params_part1_ans3_feedback: Try again! This selects the middle elements of the
-      list
-    params_part1_ans4_value: mylist[9:]
+    params_part1_ans3_value: mylist[2:5]
+    params_part1_ans3_feedback: Good job!
+    params_part1_ans4_value: mylist[3:]
     params_part1_ans4_feedback: Try again! This selects everything but the first elements
       of the list
-    params_part1_ans5_value: mylist[:-9]
-    params_part1_ans5_feedback: Good job!
-    params_part1_ans6_value: mylist[16:15]
+    params_part1_ans5_value: mylist[:-3]
+    params_part1_ans5_feedback: Try again! This selects everything but the last elements
+      of the list
+    params_part1_ans6_value: mylist[9:9]
     params_part1_ans6_feedback: Try again! This answer is incorrect
-    params_part1_ans7_value: mylist[:10]
+    params_part1_ans7_value: mylist[:4]
     params_part1_ans7_feedback: Try again! This answer is incorrect
-    params_part1_ans8_value: mylist[-10:]
+    params_part1_ans8_value: mylist[-4:]
     params_part1_ans8_feedback: Try again! This answer is incorrect
-    params_part1_ans9_value: mylist[2:13]
+    params_part1_ans9_value: mylist[1:6]
     params_part1_ans9_feedback: Try again! This answer is incorrect
     params_part1_ans10_value: None of them are correct
     params_part1_ans10_feedback: Try again! This answer is incorrect

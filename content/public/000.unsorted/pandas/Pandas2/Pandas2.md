@@ -32,7 +32,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Pandas 2
-    params_vars_code: df[0:10].dropna(axis=1, thresh=5)
+    params_vars_code: df[0:10].dropna()
     params_df__type: dataframe_v2
     params_df__value_schema_fields:
     - name: index
@@ -66,146 +66,146 @@ myst:
     params_df__value_schema_pandas_version: 1.4.0
     params_df__value_data:
     - index: 0
-      Name: Poochyena
-      Type 1: Dark
-      Type 2: null
-      Total: 220
-      HP: '35'
-      Attack: '55'
-      Defense: '35'
+      Name: Crobat
+      Type 1: Poison
+      Type 2: Flying
+      Total: 535
+      HP: '85'
+      Attack: '90'
+      Defense: '80'
       Sp. Atk: nan
-      Sp. Def: '30'
-      Speed: '35'
-      Generation: 3
+      Sp. Def: nan
+      Speed: '130'
+      Generation: 2
       Legendary: false
     - index: 1
-      Name: RotomMow Rotom
+      Name: RotomFan Rotom
       Type 1: Electric
-      Type 2: Grass
+      Type 2: Flying
       Total: 520
       HP: '50'
       Attack: '65'
       Defense: '107'
       Sp. Atk: nan
-      Sp. Def: '107'
+      Sp. Def: nan
       Speed: nan
       Generation: 4
       Legendary: false
     - index: 2
-      Name: PumpkabooSuper Size
-      Type 1: Ghost
-      Type 2: Grass
-      Total: 335
-      HP: nan
-      Attack: '66'
-      Defense: '70'
-      Sp. Atk: nan
-      Sp. Def: '55'
-      Speed: '41'
-      Generation: 6
+      Name: Zoroark
+      Type 1: Dark
+      Type 2: null
+      Total: 510
+      HP: '60'
+      Attack: '105'
+      Defense: '60'
+      Sp. Atk: '120'
+      Sp. Def: nan
+      Speed: '105'
+      Generation: 5
       Legendary: false
     - index: 3
-      Name: Togekiss
-      Type 1: Fairy
-      Type 2: Flying
-      Total: 545
-      HP: '85'
-      Attack: '50'
-      Defense: '95'
-      Sp. Atk: '120'
-      Sp. Def: '115'
-      Speed: '80'
+      Name: Weavile
+      Type 1: Dark
+      Type 2: Ice
+      Total: 510
+      HP: '70'
+      Attack: '120'
+      Defense: '65'
+      Sp. Atk: '45'
+      Sp. Def: '85'
+      Speed: '125'
       Generation: 4
       Legendary: false
     - index: 4
-      Name: Garbodor
-      Type 1: Poison
+      Name: Hypno
+      Type 1: Psychic
       Type 2: null
-      Total: 474
-      HP: '80'
-      Attack: '95'
-      Defense: nan
-      Sp. Atk: '60'
-      Sp. Def: '82'
-      Speed: '75'
-      Generation: 5
-      Legendary: false
-    - index: 5
-      Name: Machamp
-      Type 1: Fighting
-      Type 2: null
-      Total: 505
-      HP: '90'
-      Attack: '130'
-      Defense: '80'
-      Sp. Atk: '65'
-      Sp. Def: '85'
-      Speed: nan
+      Total: 483
+      HP: nan
+      Attack: '73'
+      Defense: '70'
+      Sp. Atk: '73'
+      Sp. Def: '115'
+      Speed: '67'
       Generation: 1
       Legendary: false
-    - index: 6
-      Name: Goomy
-      Type 1: Dragon
+    - index: 5
+      Name: Wynaut
+      Type 1: Psychic
       Type 2: null
-      Total: 300
-      HP: '45'
-      Attack: '50'
-      Defense: '35'
-      Sp. Atk: '55'
-      Sp. Def: '75'
-      Speed: '40'
+      Total: 260
+      HP: '95'
+      Attack: '23'
+      Defense: '48'
+      Sp. Atk: '23'
+      Sp. Def: '48'
+      Speed: '23'
+      Generation: 3
+      Legendary: false
+    - index: 6
+      Name: Florges
+      Type 1: Fairy
+      Type 2: null
+      Total: 552
+      HP: nan
+      Attack: '65'
+      Defense: nan
+      Sp. Atk: '112'
+      Sp. Def: '154'
+      Speed: '75'
       Generation: 6
       Legendary: false
     - index: 7
-      Name: Archen
-      Type 1: Rock
-      Type 2: Flying
-      Total: 401
-      HP: '55'
-      Attack: '112'
-      Defense: '45'
-      Sp. Atk: nan
-      Sp. Def: nan
-      Speed: '70'
-      Generation: 5
+      Name: Wobbuffet
+      Type 1: Psychic
+      Type 2: null
+      Total: 405
+      HP: '190'
+      Attack: '33'
+      Defense: '58'
+      Sp. Atk: '33'
+      Sp. Def: '58'
+      Speed: '33'
+      Generation: 2
       Legendary: false
     - index: 8
-      Name: Fraxure
-      Type 1: Dragon
-      Type 2: null
-      Total: 410
-      HP: nan
-      Attack: nan
-      Defense: '70'
-      Sp. Atk: '40'
+      Name: Joltik
+      Type 1: Bug
+      Type 2: Electric
+      Total: 319
+      HP: '50'
+      Attack: '47'
+      Defense: '50'
+      Sp. Atk: '57'
       Sp. Def: '50'
-      Speed: '67'
+      Speed: '65'
       Generation: 5
       Legendary: false
     - index: 9
-      Name: Sudowoodo
-      Type 1: Rock
-      Type 2: null
-      Total: 410
-      HP: '70'
+      Name: Drifloon
+      Type 1: Ghost
+      Type 2: Flying
+      Total: 348
+      HP: nan
       Attack: nan
-      Defense: '115'
-      Sp. Atk: '30'
-      Sp. Def: '65'
+      Defense: nan
+      Sp. Atk: nan
+      Sp. Def: '44'
       Speed: nan
-      Generation: 2
+      Generation: 4
       Legendary: false
-    params_part1_ans1_value: 1 columns get dropped
+    params_part1_ans1_value: 8 rows get dropped
     params_part1_ans1_feedback: Great job!
-    params_part1_ans2_value: 0 columns get dropped
+    params_part1_ans2_value: 6 rows get dropped
     params_part1_ans2_feedback: You should be able to determine how many get dropped.
-    params_part1_ans3_value: 2 columns get dropped
+    params_part1_ans3_value: 7 rows get dropped
     params_part1_ans3_feedback: You should be able to determine how many get dropped.
-    params_part1_ans4_value: 3 columns get dropped
+    params_part1_ans4_value: 9 rows get dropped
     params_part1_ans4_feedback: You should be able to determine how many get dropped.
-    params_part1_ans5_value: 4 columns get dropped
+    params_part1_ans5_value: 10 rows get dropped
     params_part1_ans5_feedback: You should be able to determine how many get dropped.
-    params_part1_ans6_value: Unable to determine how many columns get dropped
+    params_part1_ans6_value: Unable to determine how many rows get dropped
     params_part1_ans6_feedback: You should be able to determine how many get dropped.
 ---
 # {{ params_vars_title }}

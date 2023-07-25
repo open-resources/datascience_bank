@@ -51,16 +51,16 @@ part1:
 myst:
   substitutions:
     params_vars_title: Groupby 2
-    params_vars_func: median
+    params_vars_func: min
     params_vars_left: island
-    params_vars_right: sex
+    params_vars_right: species
     params_expected__type: dataframe_v2
     params_expected__value_schema_fields:
     - name: index
       type: integer
     - name: island
       type: string
-    - name: sex
+    - name: species
       type: string
     - name: bill_length_mm
       type: number
@@ -76,46 +76,39 @@ myst:
     params_expected__value_data:
     - index: 0
       island: Biscoe
-      sex: FEMALE
-      bill_length_mm: 44.9
-      bill_depth_mm: 14.5
-      flipper_length_mm: 210.0
-      body_mass_g: 4587.5
+      species: Adelie
+      bill_length_mm: 34.5
+      bill_depth_mm: 16.0
+      flipper_length_mm: 172.0
+      body_mass_g: 2850.0
     - index: 1
       island: Biscoe
-      sex: MALE
-      bill_length_mm: 48.5
-      bill_depth_mm: 16.0
-      flipper_length_mm: 219.0
-      body_mass_g: 5350.0
+      species: Gentoo
+      bill_length_mm: 40.9
+      bill_depth_mm: 13.1
+      flipper_length_mm: 203.0
+      body_mass_g: 3950.0
     - index: 2
       island: Dream
-      sex: FEMALE
-      bill_length_mm: 42.5
-      bill_depth_mm: 17.8
-      flipper_length_mm: 190.0
-      body_mass_g: 3450.0
+      species: Adelie
+      bill_length_mm: 32.1
+      bill_depth_mm: 15.5
+      flipper_length_mm: 178.0
+      body_mass_g: 2900.0
     - index: 3
       island: Dream
-      sex: MALE
-      bill_length_mm: 49.1
-      bill_depth_mm: 19.0
-      flipper_length_mm: 196.0
-      body_mass_g: 3950.0
+      species: Chinstrap
+      bill_length_mm: 40.9
+      bill_depth_mm: 16.4
+      flipper_length_mm: 178.0
+      body_mass_g: 2700.0
     - index: 4
       island: Torgersen
-      sex: FEMALE
-      bill_length_mm: 37.6
-      bill_depth_mm: 17.45
-      flipper_length_mm: 189.0
-      body_mass_g: 3400.0
-    - index: 5
-      island: Torgersen
-      sex: MALE
-      bill_length_mm: 41.1
-      bill_depth_mm: 19.2
-      flipper_length_mm: 195.0
-      body_mass_g: 4000.0
+      species: Adelie
+      bill_length_mm: 33.5
+      bill_depth_mm: 15.9
+      flipper_length_mm: 176.0
+      body_mass_g: 2900.0
     params_pengiuns__type: dataframe_v2
     params_pengiuns__value_schema_fields:
     - name: index
