@@ -1,0 +1,61 @@
+---
+title: Excel 1
+topic: Markdown
+author: Edwin Zhou
+source: unknown
+template_version: 1.4
+attribution: standard
+showCorrectAnswer: false
+outcomes:
+- 7.6.1.0
+difficulty:
+- undefined
+randomization:
+- undefined
+taxonomy:
+- undefined
+span:
+- undefined
+length:
+- undefined
+tags:
+- test4
+- EZ
+assets: null
+part1:
+  type: checkbox
+  pl-customizations:
+    weight: 1
+    partial-credit: true
+    partial-credit-method: EDC
+myst:
+  substitutions:
+    params_vars_title: Excel 1
+    params_vars_true_false: 'true'
+    params_part1_ans1_value: When you copy a formula from one cell to another, relative
+      cell references will change.
+    params_part1_ans1_feedback: Correct!
+    params_part1_ans2_value: Columns are indexed by letters.
+    params_part1_ans2_feedback: Correct!
+    params_part1_ans3_value: All formulas begin with an equal sign (=) in Microsoft
+      Excel.
+    params_part1_ans3_feedback: Correct!
+    params_part1_ans4_value: There exists an Excel function that has 0 arguments.
+    params_part1_ans4_feedback: Correct!
+    params_part1_ans5_value: More than one cell can be 'active' (i.e. enter formulas)
+      at a time.
+    params_part1_ans5_feedback: Incorrect!
+    params_part1_ans6_value: Rows are indexed by letters.
+    params_part1_ans6_feedback: Incorrect!
+---
+# Select the correct function
+
+## Part 1
+
+Which of the following statements are **{{ params.vars.true_false }}** for Microsoft Excel?
+
+### Answer Section
+
+## Attribution
+
+Problem is licensed under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).<br> ![The Creative Commons 4.0 license requiring attribution-BY, non-commercial-NC, and share-alike-SA license.](https://raw.githubusercontent.com/firasm/bits/master/by-nc-sa.png)
