@@ -30,14 +30,14 @@ part1:
 myst:
   substitutions:
     params_vars_title: Navigate paths
-    params_target: test1
-    params_part1_ans1_value: alpha/a_level3/magic
+    params_target: alpha
+    params_part1_ans1_value: a_level3/magic
     params_part1_ans1_feedback: Awesome!
-    params_part1_ans2_value: ../alpha/a_level3/magic
+    params_part1_ans2_value: ../a_level3/magic
     params_part1_ans2_feedback: carefully consider the starting directory
-    params_part1_ans3_value: ../a_level3/magic
+    params_part1_ans3_value: ../../alpha/a_level3/magic
     params_part1_ans3_feedback: carefully consider the starting directory
-    params_part1_ans4_value: a_level3/magic
+    params_part1_ans4_value: alpha/a_level3/magic
     params_part1_ans4_feedback: carefully consider the starting directory
 ---
 # {{ params_vars_title }}

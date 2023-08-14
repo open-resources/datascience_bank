@@ -35,7 +35,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Markdown Statements
-    params_vars_modifier: are incorrect
+    params_vars_modifier: are correct
     params_part1_ans1_value: You can play Videos in Markdown files.
     params_part1_ans1_feedback: You cannot do this in pure Markdown.
     params_part1_ans2_value: The most common extension for Markdown files is .md

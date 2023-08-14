@@ -32,7 +32,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Navigate Paths
-    params_vars_from_folder: g_level1
+    params_vars_from_folder: g_level3
     params_part1_ans1_value: '`../../alpha/a_level2/magic`'
     params_part1_ans1_feedback: Correct!
     params_part1_ans2_value: '`../alpha/a_level2/magic`'

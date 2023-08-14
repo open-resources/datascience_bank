@@ -44,7 +44,7 @@ part2:
 myst:
   substitutions:
     params_vars_title: Excel Data 4
-    params_target1: =MAX(B2:B17)+AVERAGE(A14:A17)
+    params_target1: =MAX(D2:D17)+AVERAGE(B2:B4)
     params_target2: =MIN(C7:C9)+AVERAGE(A6:A9)
 ---
 # {{ params_vars_title }}

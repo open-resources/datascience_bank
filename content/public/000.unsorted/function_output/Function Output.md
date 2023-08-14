@@ -31,18 +31,18 @@ part1:
 myst:
   substitutions:
     params_vars_title: Function Output
-    params_vars_quote_text: No pain, no gain.
-    params_vars_is_f_string: f
-    params_vars_first_text: No pain,
+    params_vars_quote_text: '{quote_text} catches the worm.'
+    params_vars_is_f_string: ''
+    params_vars_second_text: catches the worm.
     params_vars_variable: quote_text
-    params_vars_second_text: '{quote_text}'
-    params_part1_ans1_value: quote("no gain.")
+    params_vars_first_text: '{quote_text}'
+    params_part1_ans1_value: quote("The early bird")
     params_part1_ans1_feedback: Nice job!
     params_part1_ans2_value: None of the listed options
     params_part1_ans2_feedback: Try again!
-    params_part1_ans3_value: def quote("no gain.")
+    params_part1_ans3_value: def quote("The early bird")
     params_part1_ans3_feedback: Try again!
-    params_part1_ans4_value: quote(no gain.)
+    params_part1_ans4_value: quote(The early bird)
     params_part1_ans4_feedback: Try again!
     params_part1_ans5_value: quote()
     params_part1_ans5_feedback: Try again!

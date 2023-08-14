@@ -46,7 +46,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Movie Review
-    params_vars_lower: 3
+    params_vars_lower: 5
     params_vars_upper: 9
     params_names_for_user: []
     params_names_from_user:
@@ -61,7 +61,7 @@ myst:
     params_examples_output3: Outstanding!
     params_examples_num4: 9
     params_examples_output4: Outstanding!
-    params_examples_num5: 3
+    params_examples_num5: 5
     params_examples_output5: Avoid at all costs!
 ---
 # {{ params_vars_title }}

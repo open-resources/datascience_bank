@@ -47,14 +47,14 @@ part1:
 myst:
   substitutions:
     params_vars_title: Item Frequency
-    params_vars_name: less_than_n
-    params_vars_direction: less than
+    params_vars_name: exactly_n
+    params_vars_direction: exactly
     params_vars_example: '`False`'
     params_vars_reason: does not appear
     params_names_for_user: []
     params_names_from_user:
-    - name: less_than_n
-    params_ref_vars_operator: lt
+    - name: exactly_n
+    params_ref_vars_operator: eq
     params_ref_vars_example: false
 ---
 # {{ params_vars_title }}

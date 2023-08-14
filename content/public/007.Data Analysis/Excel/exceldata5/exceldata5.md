@@ -44,8 +44,8 @@ part2:
 myst:
   substitutions:
     params_vars_title: Excel Data 5
-    params_target1: =D16+D5&B9
-    params_target2: =D15+D5&B8
+    params_target1: =D16+D5&B3
+    params_target2: =D15+D5&B3
 ---
 # {{ params_vars_title }}
 Use the image of the data below to answer this question about Microsoft Excel.

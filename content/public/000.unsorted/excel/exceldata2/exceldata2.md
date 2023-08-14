@@ -31,10 +31,10 @@ part1:
 myst:
   substitutions:
     params_vars_title: Excel Data 2
-    params_target: =AND(B5>C3, D9=C12)
-    params_part1_ans1_value: 'True'
+    params_target: =AND(C6=A8, B4<B14)
+    params_part1_ans1_value: 'False'
     params_part1_ans1_feedback: Awesome!
-    params_part1_ans2_value: 'False'
+    params_part1_ans2_value: 'True'
     params_part1_ans2_feedback: you might need to check both conditions!
     params_part1_ans3_value: Unable to determine without the formulas
     params_part1_ans3_feedback: this question does not require the formulas

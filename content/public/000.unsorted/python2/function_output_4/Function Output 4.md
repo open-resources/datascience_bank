@@ -32,19 +32,19 @@ part1:
 myst:
   substitutions:
     params_vars_title: Function Output 4
-    params_vars_var1: numComplete
-    params_vars_var2: totalSales
+    params_vars_var1: userInput
+    params_vars_var2: maxValue
     params_vars_question_variant: ''
     params_vars_question_variant1: |2-
 
           {-_-}
-    params_part1_ans1_value: Just numComplete
+    params_part1_ans1_value: Just userInput
     params_part1_ans1_feedback: Try again!
-    params_part1_ans2_value: Both numComplete and totalSales
+    params_part1_ans2_value: Both userInput and maxValue
     params_part1_ans2_feedback: Nice job!
-    params_part1_ans3_value: Just totalSales
+    params_part1_ans3_value: Just maxValue
     params_part1_ans3_feedback: Try again!
-    params_part1_ans4_value: Neither numComplete nor totalSales
+    params_part1_ans4_value: Neither userInput nor maxValue
     params_part1_ans4_feedback: Try again!
 ---
 # Select the correct function

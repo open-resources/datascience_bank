@@ -47,8 +47,8 @@ part1:
 myst:
   substitutions:
     params_vars_title: Python Conditionals
-    params_vars_lower: -234
-    params_vars_upper: 89
+    params_vars_lower: -239
+    params_vars_upper: 52
     params_vars_inclusive: inclusive
     params_vars_invert: odd
     params_names_for_user: []
@@ -58,13 +58,13 @@ myst:
       type: function
     params_ans_invert: 1
     params_ans_inclusive: true
-    params_examples_num1: -188
+    params_examples_num1: -58
     params_examples_output1: true
-    params_examples_num2: -23
+    params_examples_num2: -73
     params_examples_output2: false
-    params_examples_num3: -254
+    params_examples_num3: -336
     params_examples_output3: false
-    params_examples_num4: 143
+    params_examples_num4: 111
     params_examples_output4: true
 ---
 # {{ params_vars_title }}

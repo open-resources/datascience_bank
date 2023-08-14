@@ -32,8 +32,8 @@ part1:
 myst:
   substitutions:
     params_vars_title: Pandas 1
-    params_vars_field: Defense
-    params_vars_code: df["Defense"].min()
+    params_vars_field: Attack
+    params_vars_code: df["Attack"].median(skipna=False)
     params_df__type: dataframe_v2
     params_df__value_schema_fields:
     - name: index
@@ -67,146 +67,146 @@ myst:
     params_df__value_schema_pandas_version: 1.4.0
     params_df__value_data:
     - index: 0
-      Name: Venipede
-      Type 1: Bug
-      Type 2: Poison
-      Total: 260
-      HP: '30'
-      Attack: '45'
-      Defense: '59'
-      Sp. Atk: '30'
-      Sp. Def: '39'
-      Speed: nan
-      Generation: 5
-      Legendary: false
-    - index: 1
-      Name: Glalie
+      Name: Sealeo
       Type 1: Ice
-      Type 2: null
-      Total: 480
-      HP: nan
-      Attack: '80'
-      Defense: '80'
-      Sp. Atk: '80'
-      Sp. Def: '80'
-      Speed: '80'
-      Generation: 3
-      Legendary: false
-    - index: 2
-      Name: GourgeistSmall Size
-      Type 1: Ghost
-      Type 2: Grass
-      Total: 494
-      HP: '55'
-      Attack: '85'
-      Defense: '122'
-      Sp. Atk: '58'
-      Sp. Def: '75'
-      Speed: '99'
-      Generation: 6
-      Legendary: false
-    - index: 3
-      Name: Cottonee
-      Type 1: Grass
-      Type 2: Fairy
-      Total: 280
-      HP: nan
+      Type 2: Water
+      Total: 410
+      HP: '90'
       Attack: nan
-      Defense: '60'
-      Sp. Atk: '37'
-      Sp. Def: nan
-      Speed: '66'
-      Generation: 5
-      Legendary: false
-    - index: 4
-      Name: Torchic
-      Type 1: Fire
-      Type 2: null
-      Total: 310
-      HP: '45'
-      Attack: '60'
-      Defense: nan
+      Defense: '70'
       Sp. Atk: nan
-      Sp. Def: '50'
+      Sp. Def: '70'
       Speed: '45'
       Generation: 3
       Legendary: false
+    - index: 1
+      Name: GiratinaAltered Forme
+      Type 1: Ghost
+      Type 2: Dragon
+      Total: 680
+      HP: '150'
+      Attack: nan
+      Defense: '120'
+      Sp. Atk: '100'
+      Sp. Def: '120'
+      Speed: '90'
+      Generation: 4
+      Legendary: true
+    - index: 2
+      Name: Fletchling
+      Type 1: Normal
+      Type 2: Flying
+      Total: 278
+      HP: nan
+      Attack: '50'
+      Defense: nan
+      Sp. Atk: '40'
+      Sp. Def: '38'
+      Speed: '62'
+      Generation: 6
+      Legendary: false
+    - index: 3
+      Name: Chikorita
+      Type 1: Grass
+      Type 2: null
+      Total: 318
+      HP: '45'
+      Attack: '49'
+      Defense: '65'
+      Sp. Atk: '49'
+      Sp. Def: '65'
+      Speed: '45'
+      Generation: 2
+      Legendary: false
+    - index: 4
+      Name: Purugly
+      Type 1: Normal
+      Type 2: null
+      Total: 452
+      HP: '71'
+      Attack: '82'
+      Defense: nan
+      Sp. Atk: '64'
+      Sp. Def: '59'
+      Speed: '112'
+      Generation: 4
+      Legendary: false
     - index: 5
-      Name: Leavanny
-      Type 1: Bug
-      Type 2: Grass
-      Total: 500
-      HP: '75'
-      Attack: '103'
-      Defense: '80'
-      Sp. Atk: '70'
-      Sp. Def: '80'
-      Speed: '92'
-      Generation: 5
+      Name: Gyarados
+      Type 1: Water
+      Type 2: Flying
+      Total: 540
+      HP: '95'
+      Attack: '125'
+      Defense: '79'
+      Sp. Atk: '60'
+      Sp. Def: '100'
+      Speed: '81'
+      Generation: 1
       Legendary: false
     - index: 6
-      Name: Shieldon
-      Type 1: Rock
-      Type 2: Steel
-      Total: 350
-      HP: '30'
-      Attack: '42'
-      Defense: '118'
-      Sp. Atk: '42'
-      Sp. Def: '88'
+      Name: Bronzor
+      Type 1: Steel
+      Type 2: Psychic
+      Total: 300
+      HP: '57'
+      Attack: '24'
+      Defense: '86'
+      Sp. Atk: '24'
+      Sp. Def: nan
       Speed: nan
       Generation: 4
       Legendary: false
     - index: 7
-      Name: Finneon
-      Type 1: Water
+      Name: Pineco
+      Type 1: Bug
       Type 2: null
-      Total: 330
-      HP: '49'
-      Attack: nan
-      Defense: '56'
-      Sp. Atk: '49'
-      Sp. Def: '61'
-      Speed: '66'
-      Generation: 4
+      Total: 290
+      HP: nan
+      Attack: '65'
+      Defense: '90'
+      Sp. Atk: '35'
+      Sp. Def: '35'
+      Speed: nan
+      Generation: 2
       Legendary: false
     - index: 8
-      Name: Golbat
-      Type 1: Poison
-      Type 2: Flying
-      Total: 455
-      HP: '75'
-      Attack: '80'
-      Defense: nan
-      Sp. Atk: '65'
-      Sp. Def: '75'
-      Speed: '90'
-      Generation: 1
+      Name: Musharna
+      Type 1: Psychic
+      Type 2: null
+      Total: 487
+      HP: '116'
+      Attack: '55'
+      Defense: '85'
+      Sp. Atk: '107'
+      Sp. Def: nan
+      Speed: '29'
+      Generation: 5
       Legendary: false
     - index: 9
-      Name: GardevoirMega Gardevoir
-      Type 1: Psychic
-      Type 2: Fairy
-      Total: 618
-      HP: '68'
-      Attack: '85'
-      Defense: '65'
+      Name: Wailmer
+      Type 1: Water
+      Type 2: null
+      Total: 400
+      HP: '130'
+      Attack: '70'
+      Defense: '35'
       Sp. Atk: nan
-      Sp. Def: nan
-      Speed: '100'
+      Sp. Def: '35'
+      Speed: '60'
       Generation: 3
       Legendary: false
-    params_part1_ans1_value: '56.00'
-    params_part1_ans1_feedback: Great job!
+    params_part1_ans1_value: '60.00'
+    params_part1_ans1_feedback: Try again.
     params_part1_ans2_value: nan
-    params_part1_ans2_feedback: Try again.
-    params_part1_ans3_value: '80.00'
+    params_part1_ans2_feedback: Great job!
+    params_part1_ans3_value: '65.00'
     params_part1_ans3_feedback: Close, but not quite! Try again.
-    params_part1_ans4_value: '40.00'
+    params_part1_ans4_value: '75.00'
     params_part1_ans4_feedback: Close, but not quite! Try again.
-    params_part1_ans5_value: '5.00'
+    params_part1_ans5_value: '62.50'
     params_part1_ans5_feedback: Close, but not quite! Try again.
-    params_part1_ans6_value: '63.00'
+    params_part1_ans6_value: '68.00'
     params_part1_ans6_feedback: Close, but not quite! Try again.
 ---
 # {{ params_vars_title }}

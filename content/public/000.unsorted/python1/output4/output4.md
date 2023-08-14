@@ -34,13 +34,13 @@ part1:
 myst:
   substitutions:
     params_vars_title: Output 4
-    params_num1: 3
+    params_num1: 8
     params_num2: 2
-    params_num3: 49
-    params_num4: 4
-    params_num5: 3
-    params_num6: 10
-    params_num7: 7
+    params_num3: 19
+    params_num4: 5
+    params_num5: 5
+    params_num6: 2
+    params_num7: 3
 ---
 # {{ params_vars_title }}
 

@@ -34,7 +34,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Print Bash
-    params_vars_name: Aliyah
+    params_vars_name: Ximena
 ---
 # {{ params_vars_title }}
 

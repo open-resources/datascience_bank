@@ -47,13 +47,13 @@ part1:
 myst:
   substitutions:
     params_vars_title: Slice List
-    params_vars_name: keep_middle
-    params_vars_participle: exclusively kept
-    params_vars_example: 8, 15, 16
+    params_vars_name: remove_middle
+    params_vars_participle: removed
+    params_vars_example: 4, 23, 42
     params_names_for_user: []
     params_names_from_user:
-    - name: keep_middle
-    params_ref_vars_action: keep
+    - name: remove_middle
+    params_ref_vars_action: remove
 ---
 # {{ params_vars_title }}
 

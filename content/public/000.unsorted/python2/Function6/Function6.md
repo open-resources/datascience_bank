@@ -47,17 +47,17 @@ part1:
 myst:
   substitutions:
     params_vars_title: Edit List
-    params_vars_amount: double
+    params_vars_amount: triple
     params_names_for_user: []
     params_names_from_user:
-    - name: double_index
-    params_ref_vars_numerical_amount: 2
-    params_examples_numbers1: '[5, 2, 3, 4, 2]'
-    params_examples_index1: 3
-    params_examples_output1: '[5, 2, 3, 8, 2]'
-    params_examples_numbers2: '[1, 8, 10, 8, 6]'
-    params_examples_index2: -3
-    params_examples_output2: '[1, 8, 20, 8, 6]'
+    - name: triple_index
+    params_ref_vars_numerical_amount: 3
+    params_examples_numbers1: '[9, 4, 2, 9, 6]'
+    params_examples_index1: 2
+    params_examples_output1: '[9, 4, 6, 9, 6]'
+    params_examples_numbers2: '[5, 1, 6, 10, 10]'
+    params_examples_index2: -2
+    params_examples_output2: '[5, 1, 6, 30, 10]'
 ---
 # {{ params_vars_title }}
 

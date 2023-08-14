@@ -30,31 +30,31 @@ part1:
 myst:
   substitutions:
     params_vars_title: Select from a list
-    params_vars_mylist: '[17, 56, 3, 8, 40, 22, 15, 33, 32, 66, 49]'
+    params_vars_mylist: '[75, 5, 33, 74, 46, 1, 81, 92, 94, 78, 76]'
     params_vars_length: 11
-    params_vars_select_num: 5
+    params_vars_select_num: 3
     params_vars_section: middle
     params_vars_negate: ' '
-    params_part1_ans1_value: mylist[:5]
+    params_part1_ans1_value: mylist[:3]
     params_part1_ans1_feedback: Try again! This selects the first elements of the
       list
-    params_part1_ans2_value: mylist[-5:]
+    params_part1_ans2_value: mylist[-3:]
     params_part1_ans2_feedback: Try again! This selects the last elements of the list
-    params_part1_ans3_value: mylist[3:8]
+    params_part1_ans3_value: mylist[4:7]
     params_part1_ans3_feedback: Good job!
-    params_part1_ans4_value: mylist[5:]
+    params_part1_ans4_value: mylist[3:]
     params_part1_ans4_feedback: Try again! This selects everything but the first elements
       of the list
-    params_part1_ans5_value: mylist[:-5]
+    params_part1_ans5_value: mylist[:-3]
     params_part1_ans5_feedback: Try again! This selects everything but the last elements
       of the list
-    params_part1_ans6_value: mylist[18:16]
+    params_part1_ans6_value: mylist[16:16]
     params_part1_ans6_feedback: Try again! This answer is incorrect
-    params_part1_ans7_value: mylist[:6]
+    params_part1_ans7_value: mylist[:4]
     params_part1_ans7_feedback: Try again! This answer is incorrect
-    params_part1_ans8_value: mylist[-6:]
+    params_part1_ans8_value: mylist[-4:]
     params_part1_ans8_feedback: Try again! This answer is incorrect
-    params_part1_ans9_value: mylist[2:9]
+    params_part1_ans9_value: mylist[3:8]
     params_part1_ans9_feedback: Try again! This answer is incorrect
     params_part1_ans10_value: None of them are correct
     params_part1_ans10_feedback: Try again! This answer is incorrect

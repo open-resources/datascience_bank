@@ -46,11 +46,11 @@ part1:
 myst:
   substitutions:
     params_vars_title: Larger Than
-    params_vars_multiple: 4
-    params_vars_fname: value_check
+    params_vars_multiple: 3
+    params_vars_fname: higher_than
     params_names_for_user: []
     params_names_from_user:
-    - name: value_check
+    - name: higher_than
 ---
 # {{ params_vars_title }}
 
