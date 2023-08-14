@@ -31,22 +31,24 @@ part1:
 myst:
   substitutions:
     params_vars_title: Excel 1
-    params_vars_true_false: 'false'
-    params_part1_ans1_value: Columns are indexed by letters.
-    params_part1_ans1_feedback: Incorrect!
-    params_part1_ans2_value: There exists an Excel function that has 0 arguments.
-    params_part1_ans2_feedback: Incorrect!
-    params_part1_ans3_value: More than one cell can be 'active' (i.e. enter formulas)
-      at a time.
+    params_vars_true_false: 'true'
+    params_part1_ans1_value: There exists an Excel function that has 0 arguments.
+    params_part1_ans1_feedback: Correct!
+    params_part1_ans2_value: A workbook may contain multiple worksheets.
+    params_part1_ans2_feedback: Correct!
+    params_part1_ans3_value: Filters can be used to hide rows based on the value of
+      a cell in that row.
     params_part1_ans3_feedback: Correct!
-    params_part1_ans4_value: The output of <code>='Hello'+'World'</code> is <code>HelloWorld</code>.
+    params_part1_ans4_value: All formulas begin with an equal sign (=) in Microsoft
+      Excel.
     params_part1_ans4_feedback: Correct!
-    params_part1_ans5_value: Rows are referenced by letters, and columns by numbers.
-    params_part1_ans5_feedback: Correct!
-    params_part1_ans6_value: If you hide a row (by right-clicking on row header and
+    params_part1_ans5_value: If you hide a row (by right-clicking on row header and
       selecting Hide), any calculations that depend on the values in that row will
       be altered.
-    params_part1_ans6_feedback: Correct!
+    params_part1_ans5_feedback: Incorrect!
+    params_part1_ans6_value: HLOOKUP is an Excel function to lookup and retrieve data
+      from a specific column in table.
+    params_part1_ans6_feedback: Incorrect!
 ---
 # Select the correct function
 

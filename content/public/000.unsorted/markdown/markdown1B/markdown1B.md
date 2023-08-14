@@ -31,27 +31,26 @@ part1:
 myst:
   substitutions:
     params_vars_title: Markdown Links
-    params_vars_prompt: make the text "https://tsn.ca" a clickable link
+    params_vars_prompt: embed a link to https://tsn.ca in the text "Hover here"
     params_part1_ans1_value: '`[Hover here(https://tsn.ca)] to visit the website.`'
     params_part1_ans1_feedback: Think about this one again, does it make sense to
       have the link combined like this?
-    params_part1_ans2_value: '`[Hover here](https://tsn.ca) to visit the website.`'
+    params_part1_ans2_value: '`Hover here&lt;https://tsn.ca&gt; to visit the website.`'
     params_part1_ans2_feedback: Close, but not quite.
-    params_part1_ans3_value: '`Hover here: [https://tsn.ca]() to visit the website.`'
+    params_part1_ans3_value: '`[[Hover here[https://tsn.ca]]] to visit the website.`'
     params_part1_ans3_feedback: Think about this one again, does it make sense to
       have the brackets like this?
-    params_part1_ans4_value: '`Hover here: &lt;https://tsn.ca&gt; to visit the website.`'
+    params_part1_ans4_value: '`[Hover here](https://tsn.ca) to visit the website.`'
     params_part1_ans4_feedback: Great! You got it.
-    params_part1_ans5_value: '`Hover here: [https://tsn.ca] to visit the website.`'
+    params_part1_ans5_value: '`[Hover here]&lt;https://tsn.ca&gt; to visit the website.`'
     params_part1_ans5_feedback: Think about this one again, does it make sense to
       have the brackets like this?
-    params_part1_ans6_value: '`Hover here: (https://tsn.ca) to visit the website.`'
+    params_part1_ans6_value: '`[Hover here]|https://tsn.ca| to visit the website.`'
     params_part1_ans6_feedback: Think about this one again, does it make sense to
       have the brackets like this?
-    params_part1_ans7_value: '`Hover here: [https://tsn.ca](https://tsn.ca) to visit
-      the website.`'
-    params_part1_ans7_feedback: This does work, but is it the most optimal way to
-      do it?
+    params_part1_ans7_value: '`(Hover here)[https://tsn.ca] to visit the website.`'
+    params_part1_ans7_feedback: Think about this one again, does it make sense to
+      have the brackets like this?
 ---
 # {{ params_vars_title }}
 

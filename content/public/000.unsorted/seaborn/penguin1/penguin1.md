@@ -35,9 +35,9 @@ part1:
 myst:
   substitutions:
     params_vars_title: Penguins 1
-    params_vars_rand_title_1: flipper_length_mm
-    params_vars_rand_title_2: body_mass_g
-    params_vars_rand_title_3: bill_length_mm
+    params_vars_rand_title_1: species
+    params_vars_rand_title_2: sex
+    params_vars_rand_title_3: flipper_length_mm
     params_part1_ans1_value: The code above is currently dropping rows, rather than
       columns.
     params_part1_ans1_feedback: Good job!

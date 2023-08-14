@@ -33,31 +33,32 @@ part1:
 myst:
   substitutions:
     params_vars_title: Modify List
-    params_vars_starting_provinces: New Brunswick
+    params_vars_starting_provinces: Northwest Territories
     params_vars_direction: add
     params_vars_num_starting: one
     params_vars_to_from: to
-    params_vars_prov1: Nunavut
+    params_vars_prov1: Nova Scotia
     params_vars_prov2: Newfoundland and Labrador
     params_vars_pluralization: ''
     params_vars_additional: ' and make sure there were no sublists present in <code>provinces</code>'
-    params_part1_ans1_value: provinces = provinces + ["Nunavut", "Newfoundland and
-      Labrador"]
+    params_part1_ans1_value: provinces = provinces + ["Nova Scotia", "Newfoundland
+      and Labrador"]
     params_part1_ans1_feedback: Good job!
-    params_part1_ans2_value: provinces.append("Nunavut", "Newfoundland and Labrador")
+    params_part1_ans2_value: provinces.append("Nova Scotia", "Newfoundland and Labrador")
     params_part1_ans2_feedback: This is not quite right.
-    params_part1_ans3_value: provinces.extend(["Newfoundland and Labrador", "Nunavut"])
+    params_part1_ans3_value: provinces.extend(["Newfoundland and Labrador", "Nova
+      Scotia"])
     params_part1_ans3_feedback: Good job!
-    params_part1_ans4_value: provinces = provinces + "Nunavut", "Newfoundland and
-      Labrador"
+    params_part1_ans4_value: provinces = provinces + "Nova Scotia", "Newfoundland
+      and Labrador"
     params_part1_ans4_feedback: This is not quite right.
     params_part1_ans5_value: provinces = [provinces, "prov1","prov2"]
     params_part1_ans5_feedback: This is not quite right.
     params_part1_ans6_value: provinces = [*provinces, "prov1","prov2"]
     params_part1_ans6_feedback: Good job!
-    params_part1_ans7_value: provinces.extend("Nunavut","Newfoundland and Labrador")
+    params_part1_ans7_value: provinces.extend("Nova Scotia","Newfoundland and Labrador")
     params_part1_ans7_feedback: This is not quite right.
-    params_part1_ans8_value: provinces.append(["Nunavut", "Newfoundland and Labrador"])
+    params_part1_ans8_value: provinces.append(["Nova Scotia", "Newfoundland and Labrador"])
     params_part1_ans8_feedback: This is not quite right.
 ---
 # {{ params_vars_title }}

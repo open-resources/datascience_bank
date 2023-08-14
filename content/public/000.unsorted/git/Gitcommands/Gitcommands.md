@@ -35,22 +35,23 @@ part1:
     counter-type: full-text
 myst:
   substitutions:
-    params_vars_name: Santiago
+    params_vars_name: Ximena
     params_vars_title: Git Commands
-    params_part1_statement1_value: I want to check if there are changes on the remote.
-    params_part1_statement1_matches: fetch
-    params_part1_statement2_value: I want to quickly create a new branch and move
+    params_part1_statement1_value: I want to quickly create a new branch and move
       to it.
-    params_part1_statement2_matches: switch
-    params_part1_statement3_value: I want to go back to an old commit and see if I
-      can rescue some code.
-    params_part1_statement3_matches: reflog
-    params_part1_statement4_value: I want to start development on a new feature without
-      making changes to the main branch
-    params_part1_statement4_matches: branch
-    params_part1_statement5_value: I want to check the differences between two branches
+    params_part1_statement1_matches: switch
+    params_part1_statement2_value: I want to make sure all the work I've done in a
+      branch is put on top of the main branch.
+    params_part1_statement2_matches: rebase
+    params_part1_statement3_value: I want to check the differences between two branches
       in a repository
-    params_part1_statement5_matches: match
+    params_part1_statement3_matches: match
+    params_part1_statement4_value: I want to integrate changes in my branch into the
+      main branch.
+    params_part1_statement4_matches: merge
+    params_part1_statement5_value: I want to go back to an old commit and see if I
+      can rescue some code.
+    params_part1_statement5_matches: reflog
 ---
 # {{ params_vars_title }}
 

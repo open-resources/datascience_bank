@@ -35,7 +35,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Markdown Statements
-    params_vars_modifier: correct
+    params_vars_modifier: incorrect
     params_part1_ans1_value: You cannot play gifs in Markdown files.
     params_part1_ans1_feedback: 'You can do this actually, the same way as for normal
       images, by using the following syntax: `![Alt text](path/to/gif.gif)`'

@@ -48,14 +48,14 @@ part1:
 myst:
   substitutions:
     params_vars_title: Sum Values
-    params_vars_name: sum_values
+    params_vars_name: sum_keys
     params_vars_parameter: my_dictionary
     params_vars_structure_name: dictionary
     params_vars_structure: dict
-    params_vars_view: values
+    params_vars_view: keys
     params_names_for_user: []
     params_names_from_user:
-    - name: sum_values
+    - name: sum_keys
 ---
 # {{ params_vars_title }}
 

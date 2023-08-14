@@ -32,25 +32,25 @@ part1:
 myst:
   substitutions:
     params_vars_title: Function Output 2
-    params_vars_random_time: 10
+    params_vars_random_time: 5
     params_vars_am_pm: PM
-    params_vars_mood: quiet
-    params_vars_question_time: '    '
+    params_vars_mood: mellow
+    params_vars_question_time: ''
     params_vars_question_mood: ''
     params_vars_question_end: ''
-    params_vars_is_defined: 'def '
+    params_vars_is_defined: ''
     params_part1_ans1_value: No Strings are printed
     params_part1_ans1_feedback: Try again!
-    params_part1_ans2_value: 'One String is printed: "The current time is 10 PM"'
-    params_part1_ans2_feedback: Nice job!
-    params_part1_ans3_value: 'Two Strings are printed: "The current time is 10 PM","The
-      mood is quiet"'
+    params_part1_ans2_value: 'One String is printed: "The current time is 5 PM"'
+    params_part1_ans2_feedback: Try again!
+    params_part1_ans3_value: 'Two Strings are printed: "The current time is 5 PM","The
+      mood is mellow"'
     params_part1_ans3_feedback: Try again!
-    params_part1_ans4_value: 'Three Strings are printed: "The current time is 10 PM",
-      "The mood is quiet", "End of report"'
+    params_part1_ans4_value: 'Three Strings are printed: "The current time is 5 PM",
+      "The mood is mellow", "End of report"'
     params_part1_ans4_feedback: Try again!
     params_part1_ans5_value: An error because the function is not defined correctly.
-    params_part1_ans5_feedback: Try again!
+    params_part1_ans5_feedback: Nice job!
 ---
 # Select the correct function
 

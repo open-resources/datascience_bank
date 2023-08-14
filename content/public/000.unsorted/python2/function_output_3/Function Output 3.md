@@ -32,17 +32,17 @@ part1:
 myst:
   substitutions:
     params_vars_title: Function Output3
-    params_vars_random_mass: 20
-    params_vars_random_accel: 5.77
-    params_part1_ans1_value: force(20, 5.77)
+    params_vars_random_mass: 27
+    params_vars_random_accel: 11.0
+    params_part1_ans1_value: force(27, 11.0)
     params_part1_ans1_feedback: Try again!
-    params_part1_ans2_value: force(5.77, 20)
+    params_part1_ans2_value: force(11.0, 27)
     params_part1_ans2_feedback: Try again!
-    params_part1_ans3_value: force(mass=20, 5.77)
+    params_part1_ans3_value: force(mass=27, 11.0)
     params_part1_ans3_feedback: Try again!
-    params_part1_ans4_value: force(acceleration=20, 5.77)
+    params_part1_ans4_value: force(acceleration=27, 11.0)
     params_part1_ans4_feedback: Try again!
-    params_part1_ans5_value: force(20, mass=5.77)
+    params_part1_ans5_value: force(27, mass=11.0)
     params_part1_ans5_feedback: Try again!
 ---
 # Select the correct function

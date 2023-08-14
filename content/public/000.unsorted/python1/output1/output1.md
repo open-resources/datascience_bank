@@ -32,21 +32,21 @@ part1:
 myst:
   substitutions:
     params_vars_title: Output
-    params_num1: 697
-    params_num2: 31
-    params_part1_ans3_value: 697
+    params_num1: 671
+    params_num2: 32
+    params_part1_ans3_value: 671
     params_part1_ans3_feedback: Correct!
     params_part1_ans1_value: '0'
     params_part1_ans1_feedback: Try again!
     params_part1_ans2_value: '1'
     params_part1_ans2_feedback: Try again!
-    params_part1_ans4_value: 39
+    params_part1_ans4_value: 4
     params_part1_ans4_feedback: Try again!
-    params_part1_ans5_value: 431
+    params_part1_ans5_value: 578
     params_part1_ans5_feedback: Try again!
-    params_part1_ans6_value: 21607
+    params_part1_ans6_value: 21472
     params_part1_ans6_feedback: Consider the last time a value was assigned to `cool_number`
-    params_part1_ans7_value: -762
+    params_part1_ans7_value: -484
     params_part1_ans7_feedback: Try again!
     params_part1_ans8_value: cool_number
     params_part1_ans8_feedback: Try again!

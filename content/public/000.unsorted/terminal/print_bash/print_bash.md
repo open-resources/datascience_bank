@@ -34,7 +34,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Print Bash
-    params_vars_random_word: hello
+    params_vars_random_word: i_am_awesome
 ---
 # Select the correct function
 

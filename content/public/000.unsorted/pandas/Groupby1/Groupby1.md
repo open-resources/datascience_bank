@@ -37,7 +37,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Subset
-    params_vars_groupby: Type 1
+    params_vars_groupby: Type 2
     params_vars_column: Sp. Def
 ---
 # {{ params_vars_title }}

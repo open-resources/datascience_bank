@@ -33,24 +33,24 @@ part1:
 myst:
   substitutions:
     params_vars_title: Output 2
-    params_num1: 382
-    params_num2: 120
-    params_operator: /=
-    params_part1_ans3_value: 502
+    params_num1: 675
+    params_num2: 105
+    params_operator: -=
+    params_part1_ans3_value: 780
     params_part1_ans3_feedback: Try again!
-    params_part1_ans1_value: 262
-    params_part1_ans1_feedback: Try again!
-    params_part1_ans2_value: 45840
+    params_part1_ans1_value: 570
+    params_part1_ans1_feedback: Correct!
+    params_part1_ans2_value: 70875
     params_part1_ans2_feedback: Try again!
-    params_part1_ans4_value: 3
-    params_part1_ans4_feedback: Correct!
+    params_part1_ans4_value: 6
+    params_part1_ans4_feedback: Try again!
     params_part1_ans5_value: 0
     params_part1_ans5_feedback: Try again!
     params_part1_ans6_value: 1
     params_part1_ans6_feedback: Try again!
-    params_part1_ans7_value: 382
+    params_part1_ans7_value: 675
     params_part1_ans7_feedback: Try again!
-    params_part1_ans8_value: 801
+    params_part1_ans8_value: 612
     params_part1_ans8_feedback: Try again!
     params_part1_ans9_value: cool_number
     params_part1_ans9_feedback: Try again!

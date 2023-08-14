@@ -31,26 +31,26 @@ part1:
 myst:
   substitutions:
     params_vars_title: Excel Data 3
-    params_target: B13:B17,">1"
-    params_part1_ans1_value: '4'
+    params_target: B2:B10,"<=3"
+    params_part1_ans1_value: '7'
     params_part1_ans1_feedback: Awesome!
-    params_part1_ans2_value: '8'
+    params_part1_ans2_value: '3'
     params_part1_ans2_feedback: you might need to check both conditions!
-    params_part1_ans3_value: '3'
+    params_part1_ans3_value: '8'
     params_part1_ans3_feedback: you might need to check both conditions!
-    params_part1_ans4_value: '6'
+    params_part1_ans4_value: '4'
     params_part1_ans4_feedback: you might need to check both conditions!
     params_part1_ans5_value: '1'
     params_part1_ans5_feedback: you might need to check both conditions!
-    params_part1_ans6_value: '9'
+    params_part1_ans6_value: '6'
     params_part1_ans6_feedback: you might need to check both conditions!
-    params_part1_ans7_value: '5'
+    params_part1_ans7_value: '0'
     params_part1_ans7_feedback: you might need to check both conditions!
     params_part1_ans8_value: '2'
     params_part1_ans8_feedback: you might need to check both conditions!
-    params_part1_ans9_value: '0'
+    params_part1_ans9_value: '9'
     params_part1_ans9_feedback: you might need to check both conditions!
-    params_part1_ans10_value: '7'
+    params_part1_ans10_value: '5'
     params_part1_ans10_feedback: you might need to check both conditions!
     params_part1_ans11_value: Need to see more rows or columns to determine definitively
     params_part1_ans11_feedback: all columns required by the question should be visible

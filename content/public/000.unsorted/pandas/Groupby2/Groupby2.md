@@ -51,7 +51,7 @@ part1:
 myst:
   substitutions:
     params_vars_title: Groupby 2
-    params_vars_func: mean
+    params_vars_func: median
     params_vars_left: sex
     params_vars_right: island
     params_expected__type: dataframe_v2
@@ -77,45 +77,45 @@ myst:
     - index: 0
       sex: FEMALE
       island: Biscoe
-      bill_length_mm: 43.3075
-      bill_depth_mm: 15.19125
-      flipper_length_mm: 205.6875
-      body_mass_g: 4319.375
+      bill_length_mm: 44.9
+      bill_depth_mm: 14.5
+      flipper_length_mm: 210.0
+      body_mass_g: 4587.5
     - index: 1
       sex: FEMALE
       island: Dream
-      bill_length_mm: 42.2967213115
-      bill_depth_mm: 17.6016393443
-      flipper_length_mm: 190.0163934426
-      body_mass_g: 3446.3114754098
+      bill_length_mm: 42.5
+      bill_depth_mm: 17.8
+      flipper_length_mm: 190.0
+      body_mass_g: 3450.0
     - index: 2
       sex: FEMALE
       island: Torgersen
-      bill_length_mm: 37.5541666667
-      bill_depth_mm: 17.55
-      flipper_length_mm: 188.2916666667
-      body_mass_g: 3395.8333333333
+      bill_length_mm: 37.6
+      bill_depth_mm: 17.45
+      flipper_length_mm: 189.0
+      body_mass_g: 3400.0
     - index: 3
       sex: MALE
       island: Biscoe
-      bill_length_mm: 47.1192771084
-      bill_depth_mm: 16.5975903614
-      flipper_length_mm: 213.2891566265
-      body_mass_g: 5104.5180722892
+      bill_length_mm: 48.5
+      bill_depth_mm: 16.0
+      flipper_length_mm: 219.0
+      body_mass_g: 5350.0
     - index: 4
       sex: MALE
       island: Dream
-      bill_length_mm: 46.1161290323
-      bill_depth_mm: 19.0661290323
-      flipper_length_mm: 196.3064516129
-      body_mass_g: 3987.0967741935
+      bill_length_mm: 49.1
+      bill_depth_mm: 19.0
+      flipper_length_mm: 196.0
+      body_mass_g: 3950.0
     - index: 5
       sex: MALE
       island: Torgersen
-      bill_length_mm: 40.5869565217
-      bill_depth_mm: 19.3913043478
-      flipper_length_mm: 194.9130434783
-      body_mass_g: 4034.7826086957
+      bill_length_mm: 41.1
+      bill_depth_mm: 19.2
+      flipper_length_mm: 195.0
+      body_mass_g: 4000.0
     params_pengiuns__type: dataframe_v2
     params_pengiuns__value_schema_fields:
     - name: index

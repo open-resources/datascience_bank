@@ -34,7 +34,7 @@ part1:
     label: Command
 myst:
   substitutions:
-    params_vars_to_make: assets
+    params_vars_to_make: wallpapers
     params_vars_title: Change Directory
 ---
 # {{ params_vars_title }}
