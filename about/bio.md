@@ -24,7 +24,7 @@ He has many research interests and they fall under three main umbrellas: medical
 Most recently, he is looking at how the field of learning analytics can provide insight to surface and reduce inequities in STEM programs.
 Firas has a deep appreciation for data visualization, active learning, and open source projects.<br><br><br>
 
-<img align="left" width="150" height="150" style="padding-right: 20px" src="../images/placeholder.jpg"> </img>
+<img align="left" width="150" height="150" style="padding-right: 20px" src="../images/placeholder.png"> </img>
 
 #### **Dr. Jake Bobowski**
 

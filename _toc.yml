@@ -7,11 +7,75 @@ parts:
     title: About
   - file: about/bio
     title: Project Team
+- caption: PracticeQuestions
+  chapters:
+  - file: content/public/000.PracticeQuestions/List/Select_from_list
 - caption: unsorted
   chapters:
+  - file: content/public/000.unsorted/excel/excel1/excel1
+  - file: content/public/000.unsorted/excel/exceldata1/exceldata1
+  - file: content/public/000.unsorted/excel/exceldata2/exceldata2
+  - file: content/public/000.unsorted/excel/exceldata3/exceldata3
+  - file: content/public/000.unsorted/excel/exceldata4/exceldata4
   - file: content/public/000.unsorted/function_output/Function Output
+  - file: content/public/000.unsorted/git/Gitcommands/Gitcommands
+  - file: content/public/000.unsorted/git/git_2_fixed/git_2_fixed
+  - file: content/public/000.unsorted/markdown/heading/heading
+  - file: content/public/000.unsorted/markdown/markdown1A/markdown1A
+  - file: content/public/000.unsorted/markdown/markdown1B/markdown1B
+  - file: content/public/000.unsorted/markdown/markdown1C/markdown1C
+  - file: content/public/000.unsorted/markdown/markdown2B/markdown2B
+  - file: content/public/000.unsorted/markdown/markdown3A/markdown3A
+  - file: content/public/000.unsorted/markdown/markdown3B/markdown3B
+  - file: content/public/000.unsorted/pandas/Groupby1/Groupby1
+  - file: content/public/000.unsorted/pandas/Groupby2/Groupby2
   - file: content/public/000.unsorted/pandas/Melt/Melt
-- caption: Math
+  - file: content/public/000.unsorted/pandas/Pandas1/Pandas1
+  - file: content/public/000.unsorted/pandas/Pandas2/Pandas2
+  - file: content/public/000.unsorted/pandas/Subset/Subset
+  - file: content/public/000.unsorted/paths1/paths1
+  - file: content/public/000.unsorted/paths2/paths2
+  - file: content/public/000.unsorted/paths3/paths3
+  - file: content/public/000.unsorted/python1/Conditionals/Conditionals
+  - file: content/public/000.unsorted/python1/Divisible_By/Divisible_By
+  - file: content/public/000.unsorted/python1/Modify_List/Modify_List
+  - file: content/public/000.unsorted/python1/Size1/Size1
+  - file: content/public/000.unsorted/python1/output1/output1
+  - file: content/public/000.unsorted/python1/output2/output2
+  - file: content/public/000.unsorted/python1/output4/output4
+  - file: content/public/000.unsorted/python1/string_truth/string_truth
+  - file: content/public/000.unsorted/python2/Budget Check/Budget Check
+  - file: content/public/000.unsorted/python2/Function1/Function1
+  - file: content/public/000.unsorted/python2/Function10/Function10
+  - file: content/public/000.unsorted/python2/Function6/Function6
+  - file: content/public/000.unsorted/python2/Function7/Function7
+  - file: content/public/000.unsorted/python2/Function8/Function8
+  - file: content/public/000.unsorted/python2/Larger_Than/Larger Than
+  - file: content/public/000.unsorted/python2/function_output_2/Function Output 2
+  - file: content/public/000.unsorted/python2/function_output_3/Function Output 3
+  - file: content/public/000.unsorted/python2/function_output_4/Function Output 4
+  - file: content/public/000.unsorted/python2/function_return/function_return
+  - file: content/public/000.unsorted/python2/movie_review/movie_review
+  - file: content/public/000.unsorted/python2/try_except/try_except
+  - file: content/public/000.unsorted/python2/try_except3/try_except3
+  - file: content/public/000.unsorted/python2/type_error2/type_error2
+  - file: content/public/000.unsorted/seaborn/effective_visualizations/effective_visualizations
+  - file: content/public/000.unsorted/seaborn/penguin1/penguin1
+  - file: content/public/000.unsorted/seaborn/penguin2/penguin2
+  - file: content/public/000.unsorted/seaborn/penguin3/penguin3
+  - file: content/public/000.unsorted/terminal/Navigate_paths1/Navigate_paths1
+  - file: content/public/000.unsorted/terminal/Navigate_paths2/Navigate_paths2
+  - file: content/public/000.unsorted/terminal/Navigate_paths3/Navigate_paths3
+  - file: content/public/000.unsorted/terminal/change_directory/change_directory
+  - file: content/public/000.unsorted/terminal/create_directory/create_directory
+  - file: content/public/000.unsorted/terminal/delete_file/delete_file
+  - file: content/public/000.unsorted/terminal/print_bash/print_bash
+  - file: content/public/000.unsorted/terminal/print_bash2/print_bash2
+- caption: Terminal
   chapters:
-  - file: content/public/001.Math/Algebra/Smudge/Smudge
-  - file: content/public/001.Math/Algebra/Smudge2/Smudge2
+  - file: content/public/003.Terminal/Topic Outcome/paths1/paths1
+  - file: content/public/003.Terminal/Topic Outcome/paths2/paths2
+  - file: content/public/003.Terminal/Topic Outcome/paths3/paths3
+- caption: Data Analysis
+  chapters:
+  - file: content/public/007.Data Analysis/Excel/exceldata5/exceldata5
